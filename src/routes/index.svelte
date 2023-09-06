@@ -41,9 +41,7 @@
 	<div class="max-w-screen-lg mx-auto">
 		<div class="flex flex-col justify-center text-center">
 			<div class="flex flex-col space-y-3">
-				<h2 class="text-4xl font-bold font-heading">
-					Nggak Perlu Repot, Biar Kami Yang Urus
-				</h2>
+				<h2 class="text-4xl font-bold font-heading">Nggak Perlu Repot, Biar Kami Yang Urus</h2>
 				<p>Hemat waktu dan tenaga kamu dengan berbagai fitur terintegrasi.</p>
 			</div>
 		</div>
@@ -147,7 +145,8 @@
 							<span class="text-5xl font-bold tracking-tight text-gray-900">470.000</span>
 						</p>
 						<a
-							href="/#"
+							target="_blank"
+							href="https://api.whatsapp.com/send/?phone=6285156676849&text=Halo%20Damas!%20Aku%20baru%20aja%20mengunjungi%20klikresi.com%20nih.%20Mau%20dijelasin%20lebih%20lanjut%20tentang%20layanan%20Klik%20Resi%20dong!&type=phone_number&app_absent=0"
 							class="mt-10 block w-full rounded-md bg-indigo-600 px-3 py-2 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
 							>Hubungi Kami</a
 						>

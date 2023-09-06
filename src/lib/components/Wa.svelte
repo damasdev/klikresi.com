@@ -1,5 +1,6 @@
 <a
-	href="/#"
+	href="https://api.whatsapp.com/send/?phone=6285156676849&text=Halo%20Damas!%20Aku%20baru%20aja%20mengunjungi%20klikresi.com%20nih.%20Mau%20dijelasin%20lebih%20lanjut%20tentang%20layanan%20Klik%20Resi%20dong!&type=phone_number&app_absent=0"
+	target="_blank"
 	class="fixed z-10 bottom-10 right-10 p-6 bg-green-600 text-white fill-current rounded-full hover:bg-green-400 flex items-center justify-center"
 >
 	<span
