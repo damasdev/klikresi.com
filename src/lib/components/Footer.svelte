@@ -16,7 +16,7 @@
 				<h4 class="font-heading font-semibold">Bantuan Pengguna</h4>
 				<ul>
 					<li class="mb-2">
-						<a class="text-gray-400 hover:text-gray-300" href="https://blog.klikresi.com">Artikel</a>
+						<a class="text-gray-400 hover:text-gray-300" href="https://blog.klikresi.com" target="_blank">Artikel</a>
 					</li>
 				</ul>
 			</div>
