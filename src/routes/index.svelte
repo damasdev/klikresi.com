@@ -148,8 +148,10 @@
 							target="_blank"
 							href="https://api.whatsapp.com/send/?phone=6285156676849&text=Halo%20Damas!%20Aku%20baru%20aja%20mengunjungi%20klikresi.com%20nih.%20Mau%20dijelasin%20lebih%20lanjut%20tentang%20layanan%20Klik%20Resi%20dong!&type=phone_number&app_absent=0"
 							class="mt-10 block w-full rounded-md bg-indigo-600 px-3 py-2 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
-							>Hubungi Kami</a
+							aria-label="Hubungi Kami via Whatsapp"
 						>
+							Hubungi Kami
+						</a>
 						<p class="mt-6 text-xs leading-5 text-gray-600">
 							Harga yang tercantum bersifat <span class="italic">one time payment</span> alias sekali
 							bayar
