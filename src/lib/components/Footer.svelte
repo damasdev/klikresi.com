@@ -13,7 +13,7 @@
 		</div>
 		<div class="flex space-x-6 w-3/4">
 			<div class="flex flex-col space-y-6 w-1/2">
-				<h6 class="font-heading font-semibold">Bantuan Pengguna</h6>
+				<h4 class="font-heading font-semibold">Bantuan Pengguna</h4>
 				<ul>
 					<li class="mb-2">
 						<a class="text-gray-400 hover:text-gray-300" href="https://blog.klikresi.com">Artikel</a>
@@ -21,7 +21,7 @@
 				</ul>
 			</div>
 			<div class="flex flex-col space-y-6 w-1/2">
-				<h6 class="font-heading font-semibold">Produk</h6>
+				<h4 class="font-heading font-semibold">Produk</h4>
 				<ul>
 					<li class="mb-2">
 						<a class="text-gray-400 hover:text-gray-300" href="https://www.postman.com/klikresi/workspace/klikresi-apis/overview">Tracking API</a>

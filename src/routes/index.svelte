@@ -56,7 +56,7 @@
 							class="transform transition duration-300 hover:rotate-12"
 							alt={feature.title}
 						/>
-						<h5 class="font-bold font-heading">{feature.title}</h5>
+						<h3 class="font-bold font-heading">{feature.title}</h3>
 					</div>
 					<p>{feature.description}</p>
 				</div>
