@@ -1,9 +1,11 @@
 <section class="py-20 scroll-mt-20" id="harga">
 	<div class="mx-auto container">
 		<div class="sm:text-center">
-			<h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Biaya Layanan</h2>
+			<h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+				Biaya Berlangganan
+			</h2>
 			<p class="mt-6 text-lg leading-8 text-gray-600">
-				Kamu bisa terintegrasi dengan 20+ layanan pengiriman cukup dengan sekali bayar.
+				Dapatkan diskon 25% dan harga spesial sesuai jumlah pengiriman paketmu
 			</p>
 		</div>
 		<div class="mt-16 rounded-3xl ring-1 ring-gray-200 sm:mt-20 lg:mx-0 lg:flex">
@@ -33,7 +35,7 @@
 								clip-rule="evenodd"
 							/>
 						</svg>
-						Terintegrasi lebih dari 20+ layanan kurir
+						Terintegrasi lebih dari 10+ layanan kurir
 					</li>
 					<li class="flex gap-x-3">
 						<svg
@@ -74,8 +76,9 @@
 					<div class="mx-auto max-w-xs px-8">
 						<p class="text-base font-semibold text-gray-600">Penawaran Terbatas</p>
 						<p class="mt-6 flex items-baseline justify-center gap-x-2">
-							<span class="text-lg font-semibold leading-6 tracking-wide text-gray-600">IDR</span>
-							<span class="text-5xl font-bold tracking-tight text-gray-900">470.000</span>
+							<span class="text-5xl font-bold tracking-tight text-gray-900">47.000</span>
+							<span class="text-lg font-semibold leading-6 tracking-wide text-gray-600">/Bulan</span
+							>
 						</p>
 						<a
 							target="_blank"
@@ -86,8 +89,7 @@
 							Hubungi Kami
 						</a>
 						<p class="mt-6 text-xs leading-5 text-gray-600">
-							Harga yang tercantum bersifat <span class="italic">one time payment</span> alias sekali
-							bayar
+							Harga yang tercantum bersifat sementara dan mungkin dapat berubah
 						</p>
 					</div>
 				</div>

@@ -4,19 +4,29 @@
 
 	const features = [
 		{
-			title: 'Dashboard',
-			icon: 'analytic',
+			title: 'Tracking Page',
+			icon: 'truck',
 			description: 'Kamu bisa memonitor semua aktivitas pengiriman dalam satu dashboard.'
 		},
 		{
 			title: 'Tracking API',
-			icon: 'truck',
-			description: 'Kamu bisa melakukan integrasi ke lebih dari 20+ kurir sekaligus.'
+			icon: 'envelope',
+			description: 'Kamu bisa melakukan integrasi ke lebih dari 10+ kurir sekaligus.'
 		},
 		{
-			title: 'Notifikasi',
+			title: 'Webhook',
 			icon: 'notification',
 			description: 'Kamu bisa kirim notifikasi setiap ada perubahan status pengiriman.'
+		},
+		{
+			title: 'Label',
+			icon: 'tag',
+			description: 'Kamu bisa dapet detail pengiriman mulai dari pickup hingga delivered.'
+		},
+        {
+			title: 'Analytic',
+			icon: 'analytic',
+			description: 'Kamu bisa menganalisa performa dari riwayat pengirimanmu.'
 		}
 	]
 </script>
