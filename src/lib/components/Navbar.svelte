@@ -1,5 +1,5 @@
 <script>
-	import Cta from '$lib/components/Cta.svelte'
+	import ButtonCta from '$lib/components/ButtonCta.svelte'
 </script>
 
 <nav class="sticky top-0 w-full bg-black text-white py-6 z-10">
@@ -14,7 +14,7 @@
 			</div>
 		</div>
 		<div class="flex items-center space-x-6">
-			<Cta />
+			<ButtonCta />
 		</div>
 	</div>
 </nav>

@@ -1,0 +1,97 @@
+<section class="py-20 scroll-mt-20" id="harga">
+	<div class="mx-auto container">
+		<div class="sm:text-center">
+			<h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Biaya Layanan</h2>
+			<p class="mt-6 text-lg leading-8 text-gray-600">
+				Kamu bisa terintegrasi dengan 20+ layanan pengiriman cukup dengan sekali bayar.
+			</p>
+		</div>
+		<div class="mt-16 rounded-3xl ring-1 ring-gray-200 sm:mt-20 lg:mx-0 lg:flex">
+			<div class="p-8 sm:p-10 lg:flex-auto">
+				<h3 class="text-2xl font-bold tracking-tight text-gray-900">Tracking API</h3>
+				<p class="mt-6 text-base leading-7 text-gray-600">
+					Dibuat untuk memudahkan para web developer dan pemilik website untuk terintegrasi dengan
+					layanan pengiriman dengan teknologi API
+				</p>
+				<div class="mt-10 flex items-center gap-x-4">
+					<h4 class="flex-none text-sm font-semibold leading-6 text-indigo-600">Layanan</h4>
+					<div class="h-px flex-auto bg-gray-100" />
+				</div>
+				<ul
+					class="mt-8 grid grid-cols-1 gap-4 text-sm leading-6 text-gray-600 sm:grid-cols-2 sm:gap-6"
+				>
+					<li class="flex gap-x-3">
+						<svg
+							class="h-6 w-5 flex-none text-indigo-600"
+							viewBox="0 0 20 20"
+							fill="currentColor"
+							aria-hidden="true"
+						>
+							<path
+								fill-rule="evenodd"
+								d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+								clip-rule="evenodd"
+							/>
+						</svg>
+						Terintegrasi lebih dari 20+ layanan kurir
+					</li>
+					<li class="flex gap-x-3">
+						<svg
+							class="h-6 w-5 flex-none text-indigo-600"
+							viewBox="0 0 20 20"
+							fill="currentColor"
+							aria-hidden="true"
+						>
+							<path
+								fill-rule="evenodd"
+								d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+								clip-rule="evenodd"
+							/>
+						</svg>
+						Custom tracking page
+					</li>
+					<li class="flex gap-x-3">
+						<svg
+							class="h-6 w-5 flex-none text-indigo-600"
+							viewBox="0 0 20 20"
+							fill="currentColor"
+							aria-hidden="true"
+						>
+							<path
+								fill-rule="evenodd"
+								d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+								clip-rule="evenodd"
+							/>
+						</svg>
+						Lihat status pengiriman
+					</li>
+				</ul>
+			</div>
+			<div class="-mt-2 p-2 lg:mt-0 lg:w-full lg:max-w-md lg:flex-shrink-0">
+				<div
+					class="rounded-2xl bg-gray-50 py-10 text-center ring-1 ring-inset ring-gray-900/5 lg:flex lg:flex-col lg:justify-center lg:py-16"
+				>
+					<div class="mx-auto max-w-xs px-8">
+						<p class="text-base font-semibold text-gray-600">Penawaran Terbatas</p>
+						<p class="mt-6 flex items-baseline justify-center gap-x-2">
+							<span class="text-lg font-semibold leading-6 tracking-wide text-gray-600">IDR</span>
+							<span class="text-5xl font-bold tracking-tight text-gray-900">470.000</span>
+						</p>
+						<a
+							target="_blank"
+							href="https://api.whatsapp.com/send/?phone=6285156676849&text=Halo%20Damas!%20Aku%20baru%20aja%20mengunjungi%20klikresi.com%20nih.%20Mau%20dijelasin%20lebih%20lanjut%20tentang%20layanan%20Klik%20Resi%20dong!&type=phone_number&app_absent=0"
+							class="mt-10 block w-full rounded-md bg-indigo-600 px-3 py-2 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+							aria-label="Hubungi Kami via Whatsapp"
+						>
+							Hubungi Kami
+						</a>
+						<p class="mt-6 text-xs leading-5 text-gray-600">
+							Harga yang tercantum bersifat <span class="italic">one time payment</span> alias sekali
+							bayar
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>

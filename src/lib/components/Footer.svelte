@@ -1,5 +1,5 @@
 <script>
-	import Cta from '$lib/components/Cta.svelte'
+	import ButtonCta from '$lib/components/ButtonCta.svelte'
 </script>
 
 <footer class="py-20 bg-black text-white">
@@ -8,7 +8,7 @@
 			<img src="/images/logo.svg" width={199} height={34.16} alt="Klik Resi Logo" />
 			<p>Kamu bisa memonitor semua pengirimanmu secara real-time dengan berbagai fitur terintegrasi.</p>
 			<div class="flex space-x-4">
-				<Cta />
+				<ButtonCta />
 			</div>
 		</div>
 		<div class="flex space-x-6 w-3/4">
