@@ -48,7 +48,7 @@
 		<div class="flex md:items-center flex-col md:flex-row space-y-16 md:space-y-0 md:space-x-24">
 			<div class="flex flex-col md:w-1/2">
 				<div class="flex flex-col space-y-4">
-					<h1 class="text-xl md:text-2xl lg:text-3xl font-bold font-heading">Paket Kamu Sudah Sampai Mana?</h1>
+					<h1 class="text-3xl md:text-3xl lg:text-4xl font-bold font-heading">Paket Kamu Sudah Sampai Mana?</h1>
 					<p class="text-sm md:text-lg">Tidak perlu bingung, kamu bisa memonitor semua pengirimanmu secara real-time.</p>
 				</div>
 				<div class="mt-12">
