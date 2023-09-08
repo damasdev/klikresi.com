@@ -32,7 +32,7 @@
 	<div class="max-w-screen-lg mx-auto">
 		<div class="flex flex-col justify-center text-center">
 			<div class="flex flex-col space-y-3">
-				<h2 class="text-4xl font-bold font-heading">Nggak Perlu Repot, Biar Kami Yang Urus</h2>
+				<h2 class="text-3xl md:text-4xl font-bold font-heading">Nggak Perlu Repot, Biar Kami Yang Urus</h2>
 				<p>Hemat waktu dan tenaga kamu dengan berbagai fitur terintegrasi.</p>
 			</div>
 		</div>

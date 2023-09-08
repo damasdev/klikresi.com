@@ -10,7 +10,7 @@
 	import StickyWa from '$lib/components/StickyWa.svelte'
 </script>
 
-<div class="w-full min-h-screen scroll-smooth">
+<div class="w-full min-h-screen scroll-smooth overflow-x-hidden">
 	<Navbar />
 
 	<slot />

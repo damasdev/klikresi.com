@@ -10,7 +10,7 @@
 
 <section class="py-20 scroll-mt-20" id="faq">
 	<div class="container mx-auto">
-		<h2 class="mb-8 text-4xl font-bold font-heading">Frequently asked questions</h2>
+		<h2 class="mb-8 text-3xl md:text-4xl font-bold font-heading">Frequently asked questions</h2>
 		<div class="pt-8 text-left border-t border-gray-200">
 			{#each faqs as faq}
 				<div class="mb-10">

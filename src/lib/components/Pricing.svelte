@@ -1,7 +1,7 @@
 <section class="py-20 scroll-mt-20" id="harga">
 	<div class="mx-auto container">
 		<div class="sm:text-center">
-			<h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+			<h2 class="text-3xl md:text-4xl font-bold tracking-tight text-gray-900">
 				Biaya Berlangganan
 			</h2>
 			<p class="mt-6 text-lg leading-8 text-gray-600">
