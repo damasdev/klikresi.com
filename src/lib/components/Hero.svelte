@@ -1,4 +1,49 @@
-<section class="py-28 text-white bg-black scroll-mt-20" id="beranda">
+<script lang="ts">
+	const couriers = [
+		{
+			title: 'JNE',
+			icon: 'jne'
+		},
+		{
+			title: 'J&T Express',
+			icon: 'jnt'
+		},
+		{
+			title: 'Sicepat',
+			icon: 'sicepat'
+		},
+		{
+			title: 'POS Indonesia',
+			icon: 'pos'
+		},
+		{
+			title: 'SAP Express',
+			icon: 'sap'
+		},
+		{
+			title: 'Lion Parcel',
+			icon: 'lionparcel'
+		},
+		{
+			title: 'ID Express',
+			icon: 'idx'
+		},
+		{
+			title: 'Anteraja',
+			icon: 'anteraja'
+		},
+		{
+			title: 'Wahana',
+			icon: 'wahana'
+		},
+		{
+			title: 'Lainnya',
+			icon: 'etc'
+		}
+	]
+</script>
+
+<section class="py-28 text-white bg-black scroll-mt-28" id="beranda">
 	<div class="container mx-auto">
 		<div class="flex items-center space-x-24">
 			<div class="flex flex-col w-1/2">
@@ -12,6 +57,18 @@
 			</div>
 			<div class="relative w-1/2">
 				<img src="/images/dashboard.webp" class="w-full h-full rounded-lg" alt="Hero" />
+			</div>
+		</div>
+		<div class="mt-32">
+			<h2 class="font font-semibold mb-4 font-heading">Kami mendukung lebih dari 10+ ekspedisi terbaik di indonesia</h2>
+			<div class="flex justify-start space-x-2">
+				{#each couriers as courier}
+					<img
+						src={`/icons/${courier.icon}.svg`}
+						class="transform transition duration-300 hover:scale-110 w-12 h-12"
+						alt={courier.title}
+					/>
+				{/each}
 			</div>
 		</div>
 	</div>

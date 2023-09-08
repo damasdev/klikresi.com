@@ -1,7 +1,4 @@
 <script lang="ts">
-	import Faq from '$lib/components/Faq.svelte'
-	import Pricing from '$lib/components/Pricing.svelte'
-
 	const features = [
 		{
 			title: 'Tracking Page',
@@ -21,9 +18,9 @@
 		{
 			title: 'Label',
 			icon: 'tag',
-			description: 'Kamu bisa dapet detail pengiriman mulai dari pickup hingga delivered.'
+			description: 'Kamu bisa dapet label pengiriman mulai dari pickup hingga delivered.'
 		},
-        {
+		{
 			title: 'Analytic',
 			icon: 'analytic',
 			description: 'Kamu bisa menganalisa performa dari riwayat pengirimanmu.'

@@ -12,8 +12,8 @@
 			<div class="p-8 sm:p-10 lg:flex-auto">
 				<h3 class="text-2xl font-bold tracking-tight text-gray-900">Tracking API</h3>
 				<p class="mt-6 text-base leading-7 text-gray-600">
-					Dibuat untuk memudahkan para web developer dan pemilik website untuk terintegrasi dengan
-					layanan pengiriman dengan teknologi API
+					Dibuat khusus untuk membantu para pelaku eCommerce untuk melacak pengiriman paket secara
+					otomatis.
 				</p>
 				<div class="mt-10 flex items-center gap-x-4">
 					<h4 class="flex-none text-sm font-semibold leading-6 text-indigo-600">Layanan</h4>
