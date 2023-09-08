@@ -43,7 +43,7 @@
 	]
 </script>
 
-<section class="py-10 md:py-20 text-white bg-black scroll-mt-20" id="beranda">
+<section class="py-10 md:py-20 text-white bg-black scroll-mt-28" id="beranda">
 	<div class="container mx-auto text-left px-6">
 		<div class="flex md:items-center flex-col md:flex-row space-y-16 md:space-y-0 md:space-x-24">
 			<div class="flex flex-col md:w-1/2">

@@ -8,7 +8,7 @@
 	]
 </script>
 
-<section class="pb-20 scroll-mt-20" id="faq">
+<section class="pb-20 scroll-mt-36" id="faq">
 	<div class="container mx-auto px-6">
 		<h2 class="mb-8 text-xl md:text-2xl lg:text-3xl font-bold font-heading">Frequently asked questions</h2>
 		<div class="pt-8 text-left border-t border-gray-200">

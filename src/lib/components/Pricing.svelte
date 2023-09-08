@@ -1,4 +1,4 @@
-<section class="pb-16 md:pb-20 scroll-mt-20" id="harga">
+<section class="pb-16 md:pb-20 scroll-mt-36" id="harga">
 	<div class="mx-auto container px-6">
 		<div class="md:text-center flex flex-col space-y-3">
 			<h2 class="text-xl md:text-2xl lg:text-3xl font-bold font-heading">
