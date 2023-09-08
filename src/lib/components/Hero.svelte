@@ -43,7 +43,7 @@
 	]
 </script>
 
-<section class="py-10 md:py-28 text-white bg-black scroll-mt-28" id="beranda">
+<section class="py-10 md:py-20 text-white bg-black scroll-mt-20" id="beranda">
 	<div class="container mx-auto text-center md:text-left">
 		<div class="flex md:items-center flex-col md:flex-row space-y-16 md:space-y-0 md:space-x-24">
 			<div class="flex flex-col md:w-1/2">
@@ -59,7 +59,7 @@
 				<img src="/images/dashboard.webp" class="w-full h-full rounded-lg" alt="Hero" />
 			</div>
 		</div>
-		<div class="mt-16 md:mt-32">
+		<div class="mt-10 md:mt-16">
 			<h2 class="font font-semibold mb-4 font-heading">Kami mendukung lebih dari 10+ ekspedisi terbaik di indonesia</h2>
 			<div class="flex justify-center md:justify-start space-x-2">
 				{#each couriers as courier}
