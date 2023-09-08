@@ -28,20 +28,20 @@
 	]
 </script>
 
-<section class="py-20 scroll-mt-20" id="produk">
-	<div class="max-w-screen-lg mx-auto">
-		<div class="flex flex-col justify-center text-center">
+<section class="py-16 md:py-20 scroll-mt-20" id="produk">
+	<div class="container mx-auto px-6">
+		<div class="flex flex-col justify-center md:text-center">
 			<div class="flex flex-col space-y-3">
-				<h2 class="text-3xl md:text-4xl font-bold font-heading">
+				<h2 class="text-xl md:text-2xl lg:text-3xl font-bold font-heading">
 					Nggak Perlu Repot, Biar Kami Yang Urus
 				</h2>
 				<p>Hemat waktu dan tenaga kamu dengan berbagai fitur terintegrasi.</p>
 			</div>
 		</div>
-		<div class="grid grid-cols-3 gap-10 mt-20">
+		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-10 mt-14 md:mt-20">
 			{#each features as feature}
 				<div
-					class="flex flex-col p-4 space-y-3 hover:shadow-xl transition duration-300 cursor-pointer"
+					class="flex flex-col space-y-3 hover:shadow-xl transition duration-300 cursor-pointer"
 				>
 					<div class="flex space-x-3">
 						<img

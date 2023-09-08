@@ -1,14 +1,14 @@
-<section class="py-20 scroll-mt-20" id="harga">
-	<div class="mx-auto container">
-		<div class="sm:text-center">
-			<h2 class="text-3xl md:text-4xl font-bold tracking-tight text-gray-900">
+<section class="pb-16 md:pb-20 scroll-mt-20" id="harga">
+	<div class="mx-auto container px-6">
+		<div class="md:text-center flex flex-col space-y-3">
+			<h2 class="text-xl md:text-2xl lg:text-3xl font-bold font-heading">
 				Biaya Berlangganan
 			</h2>
-			<p class="mt-6 text-lg leading-8 text-gray-600">
+			<p>
 				Dapatkan diskon 25% dan harga spesial sesuai jumlah pengiriman paketmu
 			</p>
 		</div>
-		<div class="mt-16 rounded-3xl ring-1 ring-gray-200 sm:mt-20 lg:mx-0 lg:flex">
+		<div class="mt-10 md:mt-16 rounded-3xl ring-1 ring-gray-200 lg:mx-0 lg:flex">
 			<div class="p-8 sm:p-10 lg:flex-auto">
 				<h3 class="text-2xl font-bold tracking-tight text-gray-900">Tracking API</h3>
 				<p class="mt-6 text-base leading-7 text-gray-600">
@@ -69,11 +69,11 @@
 					</li>
 				</ul>
 			</div>
-			<div class="-mt-2 p-2 lg:mt-0 lg:w-full lg:max-w-md lg:flex-shrink-0">
+			<div class="-mt-2 p-2 lg:mt-0 lg:flex-shrink-0">
 				<div
 					class="rounded-2xl bg-gray-50 py-10 text-center ring-1 ring-inset ring-gray-900/5 lg:flex lg:flex-col lg:justify-center lg:py-16"
 				>
-					<div class="mx-auto max-w-xs px-8">
+					<div class="mx-auto px-8">
 						<p class="text-base font-semibold text-gray-600">Penawaran Terbatas</p>
 						<p class="mt-6 flex items-baseline justify-center gap-x-2">
 							<span class="text-5xl font-bold tracking-tight text-gray-900">47.000</span>
