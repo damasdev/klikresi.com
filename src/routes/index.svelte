@@ -3,6 +3,7 @@
 	import Feature from '$lib/components/Feature.svelte'
 	import Pricing from '$lib/components/Pricing.svelte'
 	import Faq from '$lib/components/Faq.svelte'
+	import StickyWa from '$lib/components/StickyWa.svelte'
 </script>
 
 <svelte:head>
@@ -20,3 +21,5 @@
 <Pricing />
 
 <Faq />
+
+<StickyWa />

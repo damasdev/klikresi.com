@@ -7,7 +7,6 @@
 	import '@fontsource/mulish/400.css'
 	import Navbar from '$lib/components/Navbar.svelte'
 	import Footer from '$lib/components/Footer.svelte'
-	import StickyWa from '$lib/components/StickyWa.svelte'
 </script>
 
 <div class="w-full min-h-screen scroll-smooth">
@@ -16,6 +15,4 @@
 	<slot />
 
 	<Footer />
-
-	<StickyWa />
 </div>

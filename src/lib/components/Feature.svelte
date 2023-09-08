@@ -41,7 +41,7 @@
 		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-10 mt-14 md:mt-20">
 			{#each features as feature}
 				<div
-					class="flex flex-col space-y-3 hover:shadow-xl transition duration-300 cursor-pointer"
+					class="flex flex-col space-y-3"
 				>
 					<div class="flex space-x-3">
 						<img
