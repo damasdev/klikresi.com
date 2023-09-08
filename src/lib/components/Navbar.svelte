@@ -41,7 +41,7 @@
 		<div class="{show ? 'block' : 'hidden'} w-full flex-grow md:flex md:items-center md:w-auto">
 			<div class="text-sm md:flex-grow">
 				{#each menus as menu}
-					<a href={menu.url} class="block mt-4 md:inline-block md:mt-0 mr-4">{menu.title}</a>
+					<a href={menu.url} class="block mt-4 md:inline-block md:mt-0 mr-8">{menu.title}</a>
 				{/each}
 			</div>
 			<div class="mt-10 md:mt-0">
