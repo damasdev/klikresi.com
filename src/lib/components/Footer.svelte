@@ -33,6 +33,6 @@
 </footer>
 <div class="border-t-[1px] border-gray-700 py-4 bg-black text-white">
 	<div class="container mx-auto">
-		<p>©2023 Klik Resi. All Rights Reserved</p>
+		<p>Copyright 2023 © Klik Resi. All rights reserved. Various trademarks held by their respective owners.</p>
 	</div>
 </div>
