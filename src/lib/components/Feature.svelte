@@ -32,7 +32,9 @@
 	<div class="max-w-screen-lg mx-auto">
 		<div class="flex flex-col justify-center text-center">
 			<div class="flex flex-col space-y-3">
-				<h2 class="text-3xl md:text-4xl font-bold font-heading">Nggak Perlu Repot, Biar Kami Yang Urus</h2>
+				<h2 class="text-3xl md:text-4xl font-bold font-heading">
+					Nggak Perlu Repot, Biar Kami Yang Urus
+				</h2>
 				<p>Hemat waktu dan tenaga kamu dengan berbagai fitur terintegrasi.</p>
 			</div>
 		</div>
@@ -46,6 +48,8 @@
 							src={`/icons/${feature.icon}.svg`}
 							class="transform transition duration-300 hover:rotate-12"
 							alt={feature.title}
+							width={24}
+							height={24}
 						/>
 						<h3 class="font-bold font-heading">{feature.title}</h3>
 					</div>
