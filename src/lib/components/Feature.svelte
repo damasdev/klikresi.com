@@ -33,9 +33,9 @@
 		<div class="flex flex-col justify-center md:text-center">
 			<div class="flex flex-col space-y-3">
 				<h2 class="text-xl md:text-2xl lg:text-3xl font-bold font-heading">
-					Nggak Perlu Repot, Biar Kami Yang Urus
+					Emang Boleh Lacak Paket Semudah Ini?
 				</h2>
-				<p>Hemat waktu dan tenaga kamu dengan berbagai fitur terintegrasi.</p>
+				<p>Nggak perlu repot ngurusin resi pelanggan, kamu tinggal terima beres.</p>
 			</div>
 		</div>
 		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-10 mt-14 md:mt-20">
