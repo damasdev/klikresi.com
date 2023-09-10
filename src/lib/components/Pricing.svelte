@@ -5,7 +5,7 @@
 				Biaya Berlangganan
 			</h2>
 			<p>
-				Dapatkan diskon 25% dan harga spesial sesuai jumlah pengiriman paketmu
+				Dapatkan diskon hingga 50% dan harga spesial sesuai jumlah pengiriman paketmu
 			</p>
 		</div>
 		<div class="mt-10 md:mt-16 rounded-3xl ring-1 ring-gray-200 lg:mx-0 lg:flex">
@@ -76,7 +76,7 @@
 					<div class="mx-auto px-8">
 						<p class="text-base font-semibold text-gray-600">Penawaran Terbatas</p>
 						<p class="mt-6 flex items-baseline justify-center gap-x-2">
-							<span class="text-5xl font-bold tracking-tight text-gray-900">47.000</span>
+							<span class="text-5xl font-bold tracking-tight text-gray-900">97.000</span>
 							<span class="text-lg font-semibold leading-6 tracking-wide text-gray-600">/Bulan</span
 							>
 						</p>
