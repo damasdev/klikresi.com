@@ -18,6 +18,9 @@
 					<li class="mb-2">
 						<a class="text-gray-400 hover:text-gray-300" href="https://blog.klikresi.com" target="_blank">Artikel</a>
 					</li>
+					<li class="mb-2">
+						<a class="text-gray-400 hover:text-gray-300" href="https://documenter.getpostman.com/view/29221489/2s9YC7SBgH" target="_blank">Dokumentasi</a>
+					</li>
 				</ul>
 			</div>
 			<div class="flex flex-col space-y-6 w-1/2">
