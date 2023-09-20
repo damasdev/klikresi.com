@@ -1,6 +1,11 @@
 <script lang="ts">
 	const faqs = [
 		{
+			question: 'Apakah layanan ini resmi dari perusahaan logistik?',
+			answer:
+				'Kami tidak berafiliasi dengan ekspedisi yang tersedia. Kami menggunakan beberapa sumber data termasuk pihak ketiga. Penghilangan layanan untuk ekspedisi tertentu bisa terjadi tanpa pemberitahuan sebelumnya.'
+		},
+		{
 			question: 'Apakah ada semacam limit yang diterapkan?',
 			answer:
 				'Kami masih dalam tahap pengembangan, untuk saat ini tidak ada semacam limit atau pricing plan. Meskipun demikian, harap gunakan layanan ini dengan bijak karena bisa jadi limit akan diberlakukan di kemudian hari.'
@@ -10,7 +15,9 @@
 
 <section class="pb-20 scroll-mt-36" id="faq">
 	<div class="container mx-auto px-6">
-		<h2 class="mb-8 text-xl md:text-2xl lg:text-3xl font-bold font-heading">Frequently asked questions</h2>
+		<h2 class="mb-8 text-xl md:text-2xl lg:text-3xl font-bold font-heading">
+			Frequently asked questions
+		</h2>
 		<div class="pt-8 text-left border-t border-gray-200">
 			{#each faqs as faq}
 				<div class="mb-10">

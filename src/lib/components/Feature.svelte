@@ -16,9 +16,9 @@
 			description: 'Kamu bisa kirim notifikasi setiap ada perubahan status pengiriman.'
 		},
 		{
-			title: 'Label',
+			title: 'Kategori',
 			icon: 'tag',
-			description: 'Kamu bisa dapet label pengiriman mulai dari pickup hingga delivered.'
+			description: 'Kamu bisa dapet status pengiriman mulai dari pickup hingga delivered.'
 		},
 		{
 			title: 'Analytic',
@@ -35,7 +35,7 @@
 				<h2 class="text-xl md:text-2xl lg:text-3xl font-bold font-heading">
 					Emang Boleh Lacak Paket Semudah Ini?
 				</h2>
-				<p>Nggak perlu repot ngurusin resi pelanggan, kamu tinggal terima beres.</p>
+				<p>Nggak perlu repot ngurusin resi pelanggan, kamu tinggal terima beres</p>
 			</div>
 		</div>
 		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-10 mt-14 md:mt-20">
