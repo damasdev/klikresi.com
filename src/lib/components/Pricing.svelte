@@ -56,7 +56,7 @@
 					<div class="mx-auto px-8">
 						<p class="font-semibold text-gray-600 text-xl">Sekali Bayar</p>
 						<p class="mt-6 flex items-baseline justify-center gap-x-2">
-							<span class="text-5xl font-bold tracking-tight text-gray-900">IDR 470.000</span>
+							<span class="text-4xl md:text-5xl font-bold tracking-tight text-gray-900">IDR 470.000</span>
 						</p>
 						<a
 							target="_blank"

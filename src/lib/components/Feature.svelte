@@ -16,11 +16,6 @@
 			description: 'Kamu bisa kirim notifikasi setiap ada perubahan status pengiriman.'
 		},
 		{
-			title: 'Kategori',
-			icon: 'tag',
-			description: 'Kamu bisa dapet status pengiriman mulai dari pickup hingga delivered.'
-		},
-		{
 			title: 'Analytic',
 			icon: 'analytic',
 			description: 'Kamu bisa menganalisa performa dari riwayat pengirimanmu.'
@@ -40,9 +35,7 @@
 		</div>
 		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-10 mt-14 md:mt-20">
 			{#each features as feature}
-				<div
-					class="flex flex-col space-y-3"
-				>
+				<div class="flex flex-col space-y-3">
 					<div class="flex space-x-3">
 						<img
 							src={`/icons/${feature.icon}.svg`}
