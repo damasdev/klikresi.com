@@ -27,7 +27,7 @@
 				</h2>
 				<h3 class="flex items-center mb-2 text-lg font-bold text-gray-900">Status Pengiriman</h3>
 				<p class="mb-4 text-gray-700">
-					Kami melakukan klasifikasi paket kedalam 11 status mulai dari pickup hingga delivered
+					Kami melakukan klasifikasi paket kedalam 11 kategori mulai dari pickup hingga delivered
 					secara otomatis.
 				</p>
 				<h3 class="flex items-center mb-2 text-lg font-bold text-gray-900">Riwayat</h3>
