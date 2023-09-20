@@ -45,9 +45,8 @@
 <div class="border-t-[1px] border-gray-700 py-4 bg-black text-white">
 	<div class="container mx-auto px-6">
 		<p>
-			Copyright 2023 © Klik Resi. All rights reserved. <span class="hidden md:inline"
-				>Various trademarks held by their respective owners.</span
-			>
+			Copyright 2023 © Klik Resi. All rights reserved.
+			<span class="hidden md:inline"> Various trademarks held by their respective owners.</span>
 		</p>
 	</div>
 </div>
