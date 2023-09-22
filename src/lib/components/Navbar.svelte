@@ -13,10 +13,6 @@
 			title: 'Produk'
 		},
 		{
-			url: '#harga',
-			title: 'Harga'
-		},
-		{
 			url: '#faq',
 			title: 'FAQ'
 		}

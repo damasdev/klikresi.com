@@ -1,8 +1,4 @@
-<script>
-	import ButtonCta from '$lib/components/ButtonCta.svelte'
-</script>
-
-<footer class="py-20 bg-black text-white">
+<footer class="pt-16 md:pt-20 pb-24 bg-black text-white">
 	<div
 		class="container mx-auto flex flex-col md:flex-row justify-between space-y-10 md:space-y-0 md:space-x-14 px-6"
 	>
@@ -11,9 +7,6 @@
 			<p>
 				Kamu bisa memonitor semua pengirimanmu secara real-time dengan berbagai fitur terintegrasi.
 			</p>
-			<div class="flex space-x-4">
-				<ButtonCta />
-			</div>
 		</div>
 		<div class="flex flex-col md:flex-row md:space-x-6 space-y-10 md:space-y-0 md:w-3/4">
 			<div class="flex flex-col space-y-6 w-1/2">

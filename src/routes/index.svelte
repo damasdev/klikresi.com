@@ -1,7 +1,7 @@
 <script lang="ts">
 	import Hero from '$lib/components/Hero.svelte'
 	import Feature from '$lib/components/Feature.svelte'
-	import Pricing from '$lib/components/Pricing.svelte'
+	import Product from '$lib/components/Product.svelte'
 	import Faq from '$lib/components/Faq.svelte'
 	import StickyWa from '$lib/components/StickyWa.svelte'
 </script>
@@ -18,7 +18,7 @@
 
 <Feature />
 
-<Pricing />
+<Product />
 
 <Faq />
 
