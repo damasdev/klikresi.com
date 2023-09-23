@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import '../app.css'
 	import '@fontsource/montserrat/700.css'
 	import '@fontsource/montserrat/600.css'
