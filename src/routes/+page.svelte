@@ -1,9 +1,9 @@
 <script lang="ts">
-	import Hero from '$lib/components/Hero.svelte'
-	import Feature from '$lib/components/Feature.svelte'
-	import Product from '$lib/components/Product.svelte'
-	import Faq from '$lib/components/Faq.svelte'
-	import StickyWa from '$lib/components/StickyWa.svelte'
+	import Hero from '$lib/components/Home/Hero.svelte'
+	import Feature from '$lib/components/Home/Feature.svelte'
+	import Product from '$lib/components/Home/Product.svelte'
+	import Faq from '$lib/components/Home/Faq.svelte'
+	import StickyWa from '$lib/components/Home/StickyWa.svelte'
 </script>
 
 <svelte:head>

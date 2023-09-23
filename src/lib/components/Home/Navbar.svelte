@@ -1,5 +1,5 @@
 <script>
-	import ButtonCta from '$lib/components/ButtonCta.svelte'
+	import ButtonCta from '$lib/components/Home/ButtonCta.svelte'
 
 	let show = false
 
