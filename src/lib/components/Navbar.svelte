@@ -5,15 +5,15 @@
 
 	const menus = [
 		{
-			url: '#beranda',
+			url: '/#beranda',
 			title: 'Beranda'
 		},
 		{
-			url: '#produk',
+			url: '/#produk',
 			title: 'Produk'
 		},
 		{
-			url: '#faq',
+			url: '/#faq',
 			title: 'FAQ'
 		}
 	]
