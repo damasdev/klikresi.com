@@ -18,7 +18,7 @@
 				atau menggunakan layanan kami, Anda menyetujui praktik yang dijelaskan dalam Kebijakan
 				Privasi ini.
 			</p>
-			<h2 class="mt-6 mb-2 font-semibold">Informasi yang Kami Kumpulkan</h2>
+			<h2 class="text-xl mt-6 mb-2 font-semibold">Informasi yang Kami Kumpulkan</h2>
 			<p class="mb-2">
 				Kami dapat mengumpulkan informasi pribadi seperti nama dan alamat email ketika anda:
 			</p>
@@ -26,7 +26,7 @@
 				<li class="list-item">Mendaftar sebagai pengguna</li>
 				<li class="list-item">Melakukan pembelian atau berlangganan layanan kami</li>
 			</ul>
-			<h2 class="mt-6 mb-2 font-semibold">Cara Kami Menggunakan Informasi Anda</h2>
+			<h2 class="text-xl mt-6 mb-2 font-semibold">Cara Kami Menggunakan Informasi Anda</h2>
 			<p class="mb-2">Kami dapat menggunakan informasi pribadi Anda untuk:</p>
 			<ul class="list-disc ml-5 mb-2">
 				<li class="list-item">Memberikan produk atau layanan yang Anda minta.</li>
@@ -36,13 +36,13 @@
 				<li class="list-item">Menanggapi pertanyaan Anda dan memberikan dukungan pelanggan.</li>
 				<li class="list-item">Mematuhi hukum yang berlaku dan memenuhi kewajiban hukum kami.</li>
 			</ul>
-			<h2 class="mt-6 mb-2 font-semibold">Perlindungan Informasi Anda</h2>
+			<h2 class="text-xl mt-6 mb-2 font-semibold">Perlindungan Informasi Anda</h2>
 			<p class="mb-2">
 				Kami mengambil langkah-langkah yang sesuai untuk melindungi informasi pribadi Anda dari
 				akses yang tidak sah, pengungkapan, perubahan, atau penghancuran yang tidak sah. Namun, kami
 				tidak dapat menjamin keamanan informasi yang dikirimkan melalui internet.
 			</p>
-			<h2 class="mt-6 mb-2 font-semibold">Pembaruan Kebijakan Privasi</h2>
+			<h2 class="text-xl mt-6 mb-2 font-semibold">Pembaruan Kebijakan Privasi</h2>
 
 			<p class="mb-2">
 				Kebijakan Privasi ini dapat diperbarui dari waktu ke waktu. Perubahan signifikan akan
@@ -50,7 +50,7 @@
 				diharapkan untuk mengkaji Kebijakan Privasi ini secara berkala untuk tetap mendapat
 				pemahaman yang akurat tentang cara kami melindungi informasi Anda.
 			</p>
-			<h2 class="mt-6 mb-2 font-semibold">Hubungi Kami</h2>
+			<h2 class="text-xl mt-6 mb-2 font-semibold">Hubungi Kami</h2>
 			<p class="mb-2">
 				Jika Anda memiliki pertanyaan, komentar, atau permintaan terkait Kebijakan Privasi ini,
 				silakan hubungi kami melalui hi@klikresi.com.

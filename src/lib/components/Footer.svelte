@@ -13,11 +13,12 @@
 				<h4 class="font-heading font-semibold">Bantuan Pengguna</h4>
 				<ul>
 					<li class="mb-2">
-						<a
-							class="text-gray-400 hover:text-gray-300"
-							href="https://blog.klikresi.com"
-							target="_blank">Artikel</a
-						>
+						<a class="text-gray-400 hover:text-gray-300" href="/privacy-policy">
+							Kebijakan Privasi
+						</a>
+					</li>
+					<li class="mb-2">
+						<a class="text-gray-400 hover:text-gray-300" href="/terms">Ketentuan Layanan</a>
 					</li>
 				</ul>
 			</div>
@@ -29,6 +30,15 @@
 							class="text-gray-400 hover:text-gray-300"
 							href="https://documenter.getpostman.com/view/29221489/2s9YC7SBgH">Tracking API</a
 						>
+					</li>
+					<li class="mb-2">
+						<a
+							class="text-gray-400 hover:text-gray-300"
+							href="https://blog.klikresi.com"
+							target="_blank"
+						>
+							Artikel
+						</a>
 					</li>
 				</ul>
 			</div>
