@@ -33,6 +33,7 @@
 	"type": "module",
 	"dependencies": {
 		"@fontsource/montserrat": "^5.0.8",
-		"@fontsource/mulish": "^5.0.8"
+		"@fontsource/mulish": "^5.0.8",
+		"google-auth-library": "^9.0.0"
 	}
 }
