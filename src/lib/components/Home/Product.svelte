@@ -30,11 +30,11 @@
 				</h2>
 				<h3 class="flex items-center mb-2 text-lg font-bold text-gray-900">Business Owner</h3>
 				<p class="mb-4 text-gray-700">
-					Kerepotan mengurus ribuan resi pelanggan? Kami akan bantu dan kamu tinggal terima beres.
+					Punya ribuan resi pelanggan? Nggak perlu repot, kamu tinggal terima beres.
 				</p>
 				<h3 class="flex items-center mb-2 text-lg font-bold text-gray-900">Developer</h3>
 				<p class="mb-4 text-gray-700">
-					Butuh API untuk cek resi secara otomatis? Kami akan bantu integrasi dengan sistem yang
+					Butuh API untuk cek resi secara otomatis? Kami akan bantu integrasi dengan aplikasi yang
 					kamu punya.
 				</p>
 			</div>
